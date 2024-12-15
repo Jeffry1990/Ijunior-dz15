@@ -1,0 +1,15 @@
+C:\Users\warlo\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.exe
+C:\Users\warlo\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.deps.json
+C:\Users\warlo\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.runtimeconfig.json
+C:\Users\warlo\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.dll
+C:\Users\warlo\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.pdb
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.AssemblyInfoInputs.cache
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.AssemblyInfo.cs
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.csproj.CoreCompileInputs.cache
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.dll
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\refint\ConsoleApp54.dll
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.pdb
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.genruntimeconfig.cache
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ref\ConsoleApp54.dll
+C:\Users\warlo\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.sourcelink.json
