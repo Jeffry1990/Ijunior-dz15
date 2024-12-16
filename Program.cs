@@ -15,10 +15,8 @@
 
             if (inputNumber >= firstNumber && inputNumber <= secondNumber)
             {
-
                 for (int i = inputNumber; i <= maxNumberFound; i += inputNumber)
                 {
-
                     if (i < minNumberFound)
                     {
                         continue;
@@ -29,7 +27,6 @@
 
                 Console.WriteLine($"Числа от {minNumberFound} до {maxNumberFound} которые крытны {inputNumber}");
             }
-
             else
             {
                 Console.WriteLine("Неверный диапазон чисел");
